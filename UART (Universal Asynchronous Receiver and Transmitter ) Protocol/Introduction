@@ -1,10 +1,11 @@
-UART (Universal Asynchronous Receiver/Transmitter) is a hardware communication protocol that uses asynchronous serial communication with configurable speed. It is commonly used for short-distance, low-speed, low-cost data exchange between computer systems and peripheral devices. Here's a detailed overview of the UART protocol:
+UART (Universal Asynchronous Receiver/Transmitter) is a hardware communication protocol that uses asynchronous serial communication with configurable speed. 
+  It is commonly used for short-distance, low-speed, low-cost data exchange between computer systems and peripheral devices. Here's a detailed overview of the UART protocol:
 
 ### Basic Concept
 
-1. **Asynchronous Communication**: Unlike synchronous communication, UART does not require a clock signal. Instead, it relies on the start and stop bits to synchronize the data transmission.
+1. Asynchronous Communication : Unlike synchronous communication, UART does not require a clock signal. Instead, it relies on the start and stop bits to synchronize the data transmission.
 
-2. **Full Duplex**: UART allows for simultaneous transmission and reception of data, supporting full-duplex communication.
+2. Full Duplex : UART allows for simultaneous transmission and reception of data, supporting full-duplex communication.
 
 ### Key Components
 
